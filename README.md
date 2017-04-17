@@ -2,6 +2,8 @@
 
 # [See docs](https://raphaelcarlosr.github.io/async-http.js/index.html)
 
+[![Join the chat at https://gitter.im/async-http-js/Lobby](https://badges.gitter.im/async-http-js/Lobby.svg)](https://gitter.im/async-http-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GitHub forks](https://img.shields.io/github/forks/badges/async-http.js.svg?label=Fork)](https://github.com/raphaelcarlosr/async-http.js)
 [![GitHub stars](https://img.shields.io/github/stars/badges/async-http.js.svg?label=Star)](https://github.com/raphaelcarlosr/async-http.js)
 [![Github Releases](https://img.shields.io/github/downloads/raphaelcarlosr/async-http.js/latest/total.svg?label=Release downloads)](https://github.com/raphaelcarlosr/async-http.js)
